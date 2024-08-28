@@ -16,8 +16,9 @@ p {
 }
 
 .card {
-  border-radious: 0;
+  border-radius: 0;
 }
+
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
